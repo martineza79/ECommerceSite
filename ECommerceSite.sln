@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceSite.Domain", "ECommerceSite.Domain\ECommerceSite.Domain.csproj", "{DB7A636C-7FC2-4852-9B9E-728D00013AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceSite.WebUI", "ECommerceSite.WebUI\ECommerceSite.WebUI.csproj", "{503EE58F-9100-456E-AD35-D735D171E3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7A636C-7FC2-4852-9B9E-728D00013AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7A636C-7FC2-4852-9B9E-728D00013AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7A636C-7FC2-4852-9B9E-728D00013AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7A636C-7FC2-4852-9B9E-728D00013AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503EE58F-9100-456E-AD35-D735D171E3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503EE58F-9100-456E-AD35-D735D171E3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503EE58F-9100-456E-AD35-D735D171E3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503EE58F-9100-456E-AD35-D735D171E3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
